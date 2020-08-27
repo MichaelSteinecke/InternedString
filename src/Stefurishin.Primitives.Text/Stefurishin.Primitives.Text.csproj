@@ -1,8 +1,8 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netstandard2.0</TargetFramework>
-    <PackageId>InternedString</PackageId>
+		<TargetFrameworks>netcoreapp3.0;Net461</TargetFrameworks>
+		<PackageId>InternedString</PackageId>
     <Authors>Alexander Stefurishin</Authors>
     <Product>Stefurishin.Primitives</Product>
     <Copyright>Alexander Stefurishin</Copyright>
